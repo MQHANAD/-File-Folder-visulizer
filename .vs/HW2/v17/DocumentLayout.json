@@ -1,0 +1,270 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Zord\\Desktop\\HW2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F68D5DC5-FF88-457C-998D-BB75973ECA02}|HW2\\HW2.csproj|c:\\users\\zord\\desktop\\hw2\\hw2\\elementsloop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68D5DC5-FF88-457C-998D-BB75973ECA02}|HW2\\HW2.csproj|solutionrelative:hw2\\elementsloop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68D5DC5-FF88-457C-998D-BB75973ECA02}|HW2\\HW2.csproj|C:\\Users\\Zord\\Desktop\\HW2\\hw2\\charts\\barcharts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68D5DC5-FF88-457C-998D-BB75973ECA02}|HW2\\HW2.csproj|solutionrelative:hw2\\charts\\barcharts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68D5DC5-FF88-457C-998D-BB75973ECA02}|HW2\\HW2.csproj|C:\\Users\\Zord\\Desktop\\HW2\\hw2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68D5DC5-FF88-457C-998D-BB75973ECA02}|HW2\\HW2.csproj|solutionrelative:hw2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68D5DC5-FF88-457C-998D-BB75973ECA02}|HW2\\HW2.csproj|C:\\Users\\Zord\\Desktop\\HW2\\hw2\\compositepattern\\folder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68D5DC5-FF88-457C-998D-BB75973ECA02}|HW2\\HW2.csproj|solutionrelative:hw2\\compositepattern\\folder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68D5DC5-FF88-457C-998D-BB75973ECA02}|HW2\\HW2.csproj|C:\\Users\\Zord\\Desktop\\HW2\\hw2\\compositepattern\\storageelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68D5DC5-FF88-457C-998D-BB75973ECA02}|HW2\\HW2.csproj|solutionrelative:hw2\\compositepattern\\storageelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68D5DC5-FF88-457C-998D-BB75973ECA02}|HW2\\HW2.csproj|C:\\Users\\Zord\\Desktop\\HW2\\hw2\\compositepattern\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68D5DC5-FF88-457C-998D-BB75973ECA02}|HW2\\HW2.csproj|solutionrelative:hw2\\compositepattern\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68D5DC5-FF88-457C-998D-BB75973ECA02}|HW2\\HW2.csproj|C:\\Users\\Zord\\Desktop\\HW2\\hw2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F68D5DC5-FF88-457C-998D-BB75973ECA02}|HW2\\HW2.csproj|solutionrelative:hw2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68D5DC5-FF88-457C-998D-BB75973ECA02}|HW2\\HW2.csproj|C:\\Users\\Zord\\Desktop\\HW2\\hw2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68D5DC5-FF88-457C-998D-BB75973ECA02}|HW2\\HW2.csproj|solutionrelative:hw2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68D5DC5-FF88-457C-998D-BB75973ECA02}|HW2\\HW2.csproj|C:\\Users\\Zord\\Desktop\\HW2\\hw2\\treeviewclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68D5DC5-FF88-457C-998D-BB75973ECA02}|HW2\\HW2.csproj|solutionrelative:hw2\\treeviewclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68D5DC5-FF88-457C-998D-BB75973ECA02}|HW2\\HW2.csproj|C:\\Users\\Zord\\Desktop\\HW2\\hw2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68D5DC5-FF88-457C-998D-BB75973ECA02}|HW2\\HW2.csproj|solutionrelative:hw2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68D5DC5-FF88-457C-998D-BB75973ECA02}|HW2\\HW2.csproj|C:\\Users\\Zord\\Desktop\\HW2\\hw2\\charts\\charts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68D5DC5-FF88-457C-998D-BB75973ECA02}|HW2\\HW2.csproj|solutionrelative:hw2\\charts\\charts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68D5DC5-FF88-457C-998D-BB75973ECA02}|HW2\\HW2.csproj|C:\\Users\\Zord\\Desktop\\HW2\\hw2\\charts\\concretesub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68D5DC5-FF88-457C-998D-BB75973ECA02}|HW2\\HW2.csproj|solutionrelative:hw2\\charts\\concretesub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68D5DC5-FF88-457C-998D-BB75973ECA02}|HW2\\HW2.csproj|C:\\Users\\Zord\\Desktop\\HW2\\hw2\\charts\\sub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68D5DC5-FF88-457C-998D-BB75973ECA02}|HW2\\HW2.csproj|solutionrelative:hw2\\charts\\sub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68D5DC5-FF88-457C-998D-BB75973ECA02}|HW2\\HW2.csproj|C:\\Users\\Zord\\Desktop\\HW2\\hw2\\charts\\piechart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68D5DC5-FF88-457C-998D-BB75973ECA02}|HW2\\HW2.csproj|solutionrelative:hw2\\charts\\piechart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F68D5DC5-FF88-457C-998D-BB75973ECA02}|HW2\\HW2.csproj|C:\\Users\\Zord\\Desktop\\HW2\\hw2\\charts\\observer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F68D5DC5-FF88-457C-998D-BB75973ECA02}|HW2\\HW2.csproj|solutionrelative:hw2\\charts\\observer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 344,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Zord\\Desktop\\HW2\\HW2\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "HW2\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Zord\\Desktop\\HW2\\HW2\\Form1.Designer.cs",
+              "RelativeToolTip": "HW2\\Form1.Designer.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAWwFoAAAB0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T15:24:54.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ElementsLoop.cs",
+              "DocumentMoniker": "C:\\Users\\Zord\\Desktop\\HW2\\HW2\\ElementsLoop.cs",
+              "RelativeDocumentMoniker": "HW2\\ElementsLoop.cs",
+              "ToolTip": "C:\\Users\\Zord\\Desktop\\HW2\\HW2\\ElementsLoop.cs",
+              "RelativeToolTip": "HW2\\ElementsLoop.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T10:37:37.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TreeViewClass.cs",
+              "DocumentMoniker": "C:\\Users\\Zord\\Desktop\\HW2\\HW2\\TreeViewClass.cs",
+              "RelativeDocumentMoniker": "HW2\\TreeViewClass.cs",
+              "ToolTip": "C:\\Users\\Zord\\Desktop\\HW2\\HW2\\TreeViewClass.cs",
+              "RelativeToolTip": "HW2\\TreeViewClass.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T10:27:08.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "concreteSub.cs",
+              "DocumentMoniker": "C:\\Users\\Zord\\Desktop\\HW2\\HW2\\Charts\\concreteSub.cs",
+              "RelativeDocumentMoniker": "HW2\\Charts\\concreteSub.cs",
+              "ToolTip": "C:\\Users\\Zord\\Desktop\\HW2\\HW2\\Charts\\concreteSub.cs",
+              "RelativeToolTip": "HW2\\Charts\\concreteSub.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T10:16:13.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "sub.cs",
+              "DocumentMoniker": "C:\\Users\\Zord\\Desktop\\HW2\\HW2\\Charts\\sub.cs",
+              "RelativeDocumentMoniker": "HW2\\Charts\\sub.cs",
+              "ToolTip": "C:\\Users\\Zord\\Desktop\\HW2\\HW2\\Charts\\sub.cs",
+              "RelativeToolTip": "HW2\\Charts\\sub.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T10:15:51.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Observer.cs",
+              "DocumentMoniker": "C:\\Users\\Zord\\Desktop\\HW2\\HW2\\Charts\\Observer.cs",
+              "RelativeDocumentMoniker": "HW2\\Charts\\Observer.cs",
+              "ToolTip": "C:\\Users\\Zord\\Desktop\\HW2\\HW2\\Charts\\Observer.cs",
+              "RelativeToolTip": "HW2\\Charts\\Observer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T10:14:50.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BarCharts.cs",
+              "DocumentMoniker": "C:\\Users\\Zord\\Desktop\\HW2\\HW2\\Charts\\BarCharts.cs",
+              "RelativeDocumentMoniker": "HW2\\Charts\\BarCharts.cs",
+              "ToolTip": "C:\\Users\\Zord\\Desktop\\HW2\\HW2\\Charts\\BarCharts.cs",
+              "RelativeToolTip": "HW2\\Charts\\BarCharts.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwCYAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T10:14:11.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Charts.cs",
+              "DocumentMoniker": "C:\\Users\\Zord\\Desktop\\HW2\\HW2\\Charts\\Charts.cs",
+              "RelativeDocumentMoniker": "HW2\\Charts\\Charts.cs",
+              "ToolTip": "C:\\Users\\Zord\\Desktop\\HW2\\HW2\\Charts\\Charts.cs",
+              "RelativeToolTip": "HW2\\Charts\\Charts.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T10:13:57.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "pieChart.cs",
+              "DocumentMoniker": "C:\\Users\\Zord\\Desktop\\HW2\\HW2\\Charts\\pieChart.cs",
+              "RelativeDocumentMoniker": "HW2\\Charts\\pieChart.cs",
+              "ToolTip": "C:\\Users\\Zord\\Desktop\\HW2\\HW2\\Charts\\pieChart.cs",
+              "RelativeToolTip": "HW2\\Charts\\pieChart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T20:45:11.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StorageElement.cs",
+              "DocumentMoniker": "C:\\Users\\Zord\\Desktop\\HW2\\HW2\\compositePattern\\StorageElement.cs",
+              "RelativeDocumentMoniker": "HW2\\compositePattern\\StorageElement.cs",
+              "ToolTip": "C:\\Users\\Zord\\Desktop\\HW2\\HW2\\compositePattern\\StorageElement.cs",
+              "RelativeToolTip": "HW2\\compositePattern\\StorageElement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T12:08:04.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "file.cs",
+              "DocumentMoniker": "C:\\Users\\Zord\\Desktop\\HW2\\HW2\\compositePattern\\file.cs",
+              "RelativeDocumentMoniker": "HW2\\compositePattern\\file.cs",
+              "ToolTip": "C:\\Users\\Zord\\Desktop\\HW2\\HW2\\compositePattern\\file.cs",
+              "RelativeToolTip": "HW2\\compositePattern\\file.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T14:55:21.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "folder.cs",
+              "DocumentMoniker": "C:\\Users\\Zord\\Desktop\\HW2\\HW2\\compositePattern\\folder.cs",
+              "RelativeDocumentMoniker": "HW2\\compositePattern\\folder.cs",
+              "ToolTip": "C:\\Users\\Zord\\Desktop\\HW2\\HW2\\compositePattern\\folder.cs",
+              "RelativeToolTip": "HW2\\compositePattern\\folder.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAIAwwBoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T14:54:55.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Zord\\Desktop\\HW2\\HW2\\Form1.cs",
+              "RelativeDocumentMoniker": "HW2\\Form1.cs",
+              "ToolTip": "C:\\Users\\Zord\\OneDrive - KFUPM\\232\\SWE316\\dev\\HW2\\HW2\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\OneDrive - KFUPM\\232\\SWE316\\dev\\HW2\\HW2\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T09:20:55.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Zord\\Desktop\\HW2\\HW2\\Program.cs",
+              "RelativeDocumentMoniker": "HW2\\Program.cs",
+              "ToolTip": "C:\\Users\\Zord\\Desktop\\HW2\\HW2\\Program.cs",
+              "RelativeToolTip": "HW2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T10:52:19.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Zord\\Desktop\\HW2\\HW2\\Form1.cs",
+              "RelativeDocumentMoniker": "HW2\\Form1.cs",
+              "ToolTip": "C:\\Users\\Zord\\Desktop\\HW2\\HW2\\Form1.cs",
+              "RelativeToolTip": "HW2\\Form1.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAkwAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T09:21:34.261Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 223,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
